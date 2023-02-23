@@ -1,0 +1,15 @@
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\bin\Debug\net6.0\Zahlensysteme.exe
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\bin\Debug\net6.0\Zahlensysteme.deps.json
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\bin\Debug\net6.0\Zahlensysteme.runtimeconfig.json
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\bin\Debug\net6.0\Zahlensysteme.dll
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\bin\Debug\net6.0\Zahlensysteme.pdb
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.csproj.AssemblyReference.cache
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.GeneratedMSBuildEditorConfig.editorconfig
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.AssemblyInfoInputs.cache
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.AssemblyInfo.cs
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.csproj.CoreCompileInputs.cache
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.dll
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\refint\Zahlensysteme.dll
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.pdb
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\Zahlensysteme.genruntimeconfig.cache
+U:\Ausbildung\Projekte\Visual Studio\Zahlensysteme\Zahlensysteme\obj\Debug\net6.0\ref\Zahlensysteme.dll
