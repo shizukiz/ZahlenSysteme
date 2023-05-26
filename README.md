@@ -17,7 +17,37 @@ Throughout this repository, you will find a collection of my misadventures in nu
 
 ## Example
 Let's take a look at a typical example of my clumsy calculations:
+
 ### Decimal to Binary Conversion
+
+Input: 25
+
+Step 1: Divide 25 by 2
+```plaintext
+25 ÷ 2 = 12 with a remainder of 1
+``` 
+Step 2: Divide 12 by 2
+```plaintext
+12 ÷ 2 = 6 with a remainder of 0
+```
+Step 3: Divide 6 by 2
+```plaintext
+6 ÷ 2 = 3 with a remainder of 0
+```
+Step 4: Divide 3 by 2
+```plaintext
+3 ÷ 2 = 1 with a remainder of 1
+```
+Step 5: Divide 1 by 2
+```plaintext
+1 ÷ 2 = 0 with a remainder of 1
+```
+The binary representation of 25 is obtained by reading the remainders from the last step in reverse order:
+```plaintext
+25 (decimal) = 11001 (binary)
+```
+As you can see, even a simple decimal to binary conversion can lead me down a path of confusion and clumsy calculations. So, join me in this lighthearted journey through the realm of numbers, where mistakes are celebrated, and laughter is guaranteed!
+
 
 ## Disclaimer
 
